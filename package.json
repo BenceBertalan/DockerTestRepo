@@ -2,9 +2,9 @@
   "name": "simplelanguagetests",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app_advanced.js",
   "scripts": {
-    "start": "app_advanced.js"
+    "start": "node app_advanced.js"
   },
   "author": "",
   "license": "ISC",
